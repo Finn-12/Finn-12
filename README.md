@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Phuong (Finn) Le  
+### *Data Scientist • Applied Research • AI/ML • NLP • GIS • Automation*  
+…and part-time **GSW emotional investor** 🏀
 
-<!--
-**Finn-12/Finn-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me (the fun version)
+Hi, I’m Finn — I code like I’m doing hip-hop choreography:  
+clean lines, unexpected moves, and occasionally a backflip (a.k.a. debugging at 4 AM).  
+Dance + Coffee for Dopamine 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mix **AI + sustainability + data viz + urban planning + automation**,  
+but I still scream at my laptop like it’s Steph Curry missing a free throw (rare, but it happens).
+
+My dream?  
+To build tech that makes cities smarter, research sharper, and my life 0.01% more organized.
+
+---
+
+## 🔥 What I Actually Do
+- **Machine Learning**: Regression, classification, evaluations  
+- **NLP**: spaCy, SciSpaCy, BERT, topic modeling, sentiment analysis  
+- **GIS**: ArcGIS Pro, mapping urban agriculture, spatial layers  
+- **Automation**: Power Automate, AppSheet, “why do this manually?” energy  
+- **Data Visualization**: Tableau, Power BI, matplotlib  
+- **Coding Like a Hip-Hop Routine**: Python • R • SQL • Jupyter • HTML
+
+---
+
+## 🧠 Projects
+
+### 💬 **Drug Review Sentiment Analysis (VADER vs BioClinicalBERT)**  
+Finding out which drugs people *really* like.  
+
+### 🩻 **Breast Cancer Survival Classifier**  
+Predictive model + clean explanations.  
+
+### 🌾 **Urban Agriculture Mapping (TO Sustain)**  
+GIS, zoning layers, equity mapping & policy analysis.  
+
+### 🟦 **COVID-19 2020–2021 Analysis**  
+Dashboard + story → did Minto Pyramid method like a consultant.  
+
+### 🤖 **Chatbot (Python)**  
+The sassy version of me but with less anxiety.  
+
+### 🚇 **Arup Project Control Work**  
+SSE + FWLRT + OnCorr —  
+Automations, workflows, reporting, MoMs, everything.
+
+---
+
+## 💛 Random Finn Facts  
+- Hardcore **Golden State Warriors** fan — yes, even through losing streaks  
+- Coding = Hip-hop
+
+---
+
+## 📫 Find Me
+- **Email**: thi-thu-phuong.le@senecapolytechnic.ca  
+- **LinkedIn**: https://www.linkedin.com/in/phuongl  
+- **GitHub**: you’re already here 😄
