@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Phuong (Finn) Le  
-### *Data Scientist • Applied Research • AI/ML • NLP • GIS • Automation*  
+### *Applied Research • AI/ML • NLP • GIS • Automation*  
 …and part-time **GSW emotional investor** 🏀
 
----
 
 ## 🌟 About Me 
 Hi, I’m Finn — I code like I’m doing hip-hop choreography:  
@@ -12,10 +11,7 @@ Dance + Coffee for Dopamine
 I mix **AI + sustainability + data viz + urban planning + automation**,  
 but I still scream at my laptop like it’s Steph Curry missing a free throw (rare, but it happens).
 
-My dream?  
-To build tech that makes cities smarter, research sharper, and my life 0.01% more organized.
 
----
 
 ## 🔥 What I Actually Do
 - **Machine Learning**: Regression, classification, evaluations  
@@ -25,7 +21,6 @@ To build tech that makes cities smarter, research sharper, and my life 0.01% mor
 - **Data Visualization**: Tableau, Power BI, matplotlib  
 - **Coding Like a Hip-Hop Routine**: Python • R • SQL • Jupyter • HTML
 
----
 
 ## 🧠 Projects
 
@@ -48,15 +43,13 @@ The sassy version of me but with less anxiety.
 SSE + FWLRT + OnCorr —  
 Automations, workflows, reporting, MoMs, everything.
 
----
 
-## 💛 Random Finn Facts  
+## 💛 Culture Fit Check  
 - Hardcore **Golden State Warriors** fan — yes, even through losing streaks  
 - Coding = Hip-hop
 
----
 
 ## 📫 Find Me
 - **Email**: thi-thu-phuong.le@senecapolytechnic.ca  
-- **LinkedIn**: https://www.linkedin.com/in/phuongl  
+- **LinkedIn**: [https://www.linkedin.com/in/phuongl  ](https://www.linkedin.com/in/phuong-le-thi-thu/)
 - **GitHub**: you’re already here 😄
