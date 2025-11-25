@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 About Me (the fun version)
+## 🌟 About Me 
 Hi, I’m Finn — I code like I’m doing hip-hop choreography:  
 clean lines, unexpected moves, and occasionally a backflip (a.k.a. debugging at 4 AM).  
 Dance + Coffee for Dopamine 
