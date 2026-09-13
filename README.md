@@ -1,4 +1,4 @@
-# Hi, I'm Phuong (Finn) Le  
+# Hi, I'm Phuong Le  
 ## https://phuongle-portfolio.vercel.app/
 ### *Applied Research • AI/ML • NLP • GIS • Automation*  
 …and part-time **GSW emotional investor** 🏀
