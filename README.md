@@ -44,10 +44,6 @@ SSE + FWLRT + OnCorr —
 Automations, workflows, reporting, MoMs, everything.
 
 
-## Culture Fit Check  
-- Hardcore **Golden State Warriors** fan — yes, even through losing streaks  
-- Coding = Hip-hop
-
 
 ## Find Me
 - **Email**: thi-thu-phuong.le@senecapolytechnic.ca  
