@@ -1,13 +1,10 @@
 # Hi, I'm Phuong Le  
 ## https://phuongle-portfolio.vercel.app/
-### *Applied Research • AI/ML • NLP • GIS • Automation*  
-…and part-time **GSW emotional investor** 🏀
+### *Applied Research • AI/ML • NLP • GIS • Automation • GSW emotional investor** 
 
 
 ## About Me 
-Hi, I’m Phuong. I code like I’m doing hip-hop choreography:  
-clean lines, unexpected moves, and occasionally a backflip (a.k.a. debugging at 4 AM).  
-Dance + Coffee for Dopamine 
+Hi, I’m Phuong.
 
 
 
