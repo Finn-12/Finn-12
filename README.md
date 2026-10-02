@@ -1,6 +1,6 @@
 # Hi, I'm Phuong Le  
 ## https://phuongle-portfolio.vercel.app/
-### *Applied Research • AI/ML • NLP • GIS • Automation • GSW emotional investor** 
+### *Applied Research • AI/ML • NLP • GIS • Automation • GSW emotional investor*
 
 
 ## About Me 
